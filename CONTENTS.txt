@@ -1,0 +1,4 @@
+START_HERE_CODEX.md  : Codex向け引き継ぎ・仕様・次の作業
+app/                 : 現在公開中のアプリ本体
+assets/              : 生成済みの全ドット絵（個別切り出し + 元sprite sheet）
+reference/           : ユーザー提供のドット絵参考画像と現行UI確認画像
